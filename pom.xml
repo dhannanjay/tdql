@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.dvaid.lwp</groupId>
-  <artifactId>Tdql</artifactId>
+  <artifactId>tdql</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
     <plugins>
